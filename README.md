@@ -1,48 +1,72 @@
 # Hi, I'm Ramkrushna Patra
 
-**Full-stack developer** building web apps with **React**, **Python**, and **AI/RAG** pipelines.
+**Backend Engineer** · 4+ years building high-scale distributed systems in **fintech** and **mobility**
 
 ```text
-React  ·  FastAPI  ·  Python  ·  SQLite  ·  ChromaDB  ·  OpenAI
+Java · Spring Boot · Python · PostgreSQL · Kafka · AWS · Microservices
 ```
+
+📧 rpatra16499@gmail.com · 📱 +91 8097335488 · 🇮🇳 India
 
 ---
 
 ## About me
 
-- I build end-to-end apps — frontend UI, REST APIs, async workflows, and LLM integration
-- Interested in system design, clean code structure, and practical tradeoffs
-- Based in India · open to backend / full-stack roles
+Backend engineer with experience at **PhonePe** and **GetMyParking**, designing and owning services for payments, real-time APIs, and data-intensive systems supporting **10M+ users**.
+
+Focused on system design, performance optimization, concurrency, and production reliability.
 
 ---
 
-## Featured project
+## Experience highlights
 
-### [build-minimal-ai](https://github.com/ramkrushnapatra/build-minimal-ai) — AI Knowledge Inbox
+### GetMyParking · Software Engineer (Backend) · Sept 2024 – April 2026
+- Built a live parking dashboard handling **60M+ vehicle entries/month** with correct counts under high concurrency
+- Car Park Management Dashboard for **10K+ parking owners** — limits, entry rules, reduced unauthorized access
+- Payment retry flow in admin portal — **+20% transaction success rate**
+- Multi-merchant payments, permit capacity system, and admin dashboards
+- Migrated backend from **MongoDB → PostgreSQL** — **30% lower latency**
+- API performance improvements via caching and query optimization
 
-A production-style RAG app for the Turium AI interview assignment.
-
-- Save **notes** or **URLs** (server-side fetch)
-- **Async indexing** — chunk → embed → store in ChromaDB
-- **Ask questions** over saved content with cited source snippets
-
-| | |
-|---|---|
-| **Frontend** | React (Vite), hooks, Tailwind |
-| **Backend** | FastAPI, Python |
-| **AI** | OpenAI embeddings + gpt-4o-mini |
-| **APIs** | `POST /ingest` · `GET /items` · `POST /query` |
+### PhonePe · Software Engineer (Backend) · June 2022 – Sept 2024
+- Integrated **BillDesk** payment gateway on wealthdesk platform for **10M+ users**
+- Built distributed **notification framework** for orders, SIP alerts, and rebalance updates
+- Designed **Risk Profile engine** for personalized portfolio recommendations
+- Automated **NSE market data ingestion** pipeline for pricing and metadata
+- Optimized critical APIs — **30% faster** response times
+- Real-time portfolio data service for WealthBasket with low latency
 
 ---
 
 ## Tech stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Languages:** Java · Python · C++ · JavaScript
+
+**Frameworks:** Spring Boot · Hibernate · Flask · Node.js
+
+**Databases:** PostgreSQL · DynamoDB · Redis · Elasticsearch
+
+**Messaging:** Kafka · AWS SQS
+
+**Cloud:** AWS (Lambda, EC2, S3, API Gateway, CloudWatch…) · Azure
+
+**Other:** Docker · Microservices · System Design · DSA
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## Education
+
+**B.Tech Computer Science** — Centurion University (2017–2021) · CGPA 8.0/10
 
 ---
 
@@ -58,21 +82,13 @@ A production-style RAG app for the Turium AI interview assignment.
 
 ---
 
-## What I'm working on
-
-- RAG pipelines and vector search
-- React + FastAPI full-stack apps
-- Writing clear READMEs with design tradeoffs
-
----
-
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-ramkrushnapatra-181717?style=flat&logo=github)](https://github.com/ramkrushnapatra)
 [![Email](https://img.shields.io/badge/Email-rpatra16499@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rpatra16499@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ramkrushnapatra-181717?style=flat&logo=github)](https://github.com/ramkrushnapatra)
 
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile!</i>
+  <i>Open to backend / full-stack opportunities</i>
 </p>
