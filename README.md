@@ -29,12 +29,12 @@ Focused on system design, performance optimization, concurrency, and production 
 - API performance improvements via caching and query optimization
 
 ### PhonePe · Software Engineer (Backend) · June 2022 – Sept 2024
-- Integrated **BillDesk** payment gateway on wealthdesk platform for **10M+ users**
-- Built distributed **notification framework** for orders, SIP alerts, and rebalance updates
-- Designed **Risk Profile engine** for personalized portfolio recommendations
-- Automated **NSE market data ingestion** pipeline for pricing and metadata
-- Optimized critical APIs — **30% faster** response times
-- Real-time portfolio data service for WealthBasket with low latency
+- Integrated **BillDesk payment gateway APIs** into the **wealthdesk** platform, supporting **10M+ users** with high transaction reliability and scalability
+- Architected and deployed a distributed **notification framework** for order lifecycle events, SIP alerts, and rebalance updates
+- Designed and implemented a **Risk Profile engine** to recommend optimal risk levels and asset allocations for investors
+- Built an automated **NSE market data ingestion** pipeline for pricing and metadata used by downstream systems
+- Optimized critical backend APIs — **30% reduction** in average response times
+- Built a real-time **WealthBasket** portfolio data service with low latency
 
 ---
 
