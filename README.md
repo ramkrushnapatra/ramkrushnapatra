@@ -2,11 +2,7 @@
 
 **Software Engineer** · 4+ years building scalable, reliable distributed systems
 
-```text
-Java · Spring Boot · PostgreSQL · Redis · Kafka · AWS · Microservices
-```
-
-📧 [rpatra16499@gmail.com](mailto:rpatra16499@gmail.com) · [LinkedIn](https://linkedin.com/in/ramkrushnapatra1999) · 🇮🇳 Bengaluru, India
+🇮🇳 Bengaluru, India
 
 ---
 
@@ -86,12 +82,6 @@ Software Engineer with 4+ years of experience building scalable and reliable dis
 </p>
 
 ---
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramkrushnapatra1999-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramkrushnapatra1999)
-[![Email](https://img.shields.io/badge/Email-rpatra16499@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rpatra16499@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ramkrushnapatra-181717?style=flat&logo=github)](https://github.com/ramkrushnapatra)
 
 ---
 
