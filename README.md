@@ -1,40 +1,45 @@
 # Hi, I'm Ramkrushna Patra
 
-**Backend Engineer** · 4+ years building high-scale distributed systems in **fintech** and **mobility**
+**Software Engineer** · 4+ years building scalable, reliable distributed systems
 
 ```text
-Java · Spring Boot · Python · PostgreSQL · Kafka · AWS · Microservices
+Java · Spring Boot · PostgreSQL · Redis · Kafka · AWS · Microservices
 ```
 
-📧 rpatra16499@gmail.com · 🇮🇳 India
+📧 [rpatra16499@gmail.com](mailto:rpatra16499@gmail.com) · [LinkedIn](https://linkedin.com/in/ramkrushnapatra1999) · 🇮🇳 Bengaluru, India
 
 ---
 
-## About me
+## Summary
 
-Backend engineer with experience at **PhonePe** and **GetMyParking**, designing and owning services for payments, real-time APIs, and data-intensive systems supporting **10M+ users**.
-
-Focused on system design, performance optimization, concurrency, and production reliability.
+Software Engineer with 4+ years of experience building scalable and reliable distributed systems. Experienced in designing high-performance backend services, improving system reliability, and delivering solutions for high-volume applications. Strong focus on performance, scalability, and problem-solving.
 
 ---
 
-## Experience highlights
+## Experience
 
-### GetMyParking · Software Engineer (Backend) · Sept 2024 – April 2026
-- Built a live parking dashboard handling **60M+ vehicle entries/month** with correct counts under high concurrency
-- Car Park Management Dashboard for **10K+ parking owners** — limits, entry rules, reduced unauthorized access
-- Payment retry flow in admin portal — **+20% transaction success rate**
-- Multi-merchant payments, permit capacity system, and admin dashboards
-- Migrated backend from **MongoDB → PostgreSQL** — **30% lower latency**
-- API performance improvements via caching and query optimization
+### Software Engineer · GetMyParking · Sept 2024 – June 2026 · Bengaluru
 
-### PhonePe · Software Engineer (Backend) · June 2022 – Sept 2024
-- Integrated **BillDesk payment gateway APIs** into the **wealthdesk** platform, supporting **10M+ users** with high transaction reliability and scalability
-- Architected and deployed a distributed **notification framework** for order lifecycle events, SIP alerts, and rebalance updates
-- Designed and implemented a **Risk Profile engine** to recommend optimal risk levels and asset allocations for investors
-- Built an automated **NSE market data ingestion** pipeline for pricing and metadata used by downstream systems
-- Optimized critical backend APIs — **30% reduction** in average response times
-- Built a real-time **WealthBasket** portfolio data service with low latency
+- Architected a real-time vehicle occupancy tracking engine handling **10M+ monthly vehicle events** across concurrent entry/exit lanes using **Redis atomic operations** to eliminate race conditions
+- Led migration of rule-engine services from **MongoDB → PostgreSQL**; restructured unstructured documents into indexed relational tables — **25% reduction** in end-to-end service latency
+- Engineered an asynchronous **payment retry system** using unique idempotency keys and exponential backoff — **20% increase** in transaction success rate
+- Designed a **multi-tenant payment routing layer** integrated with gateway APIs to dynamically split and route settlement transactions based on operator sub-account configurations
+- Built a **permit capacity management system** enforcing subscription limits, purchase restrictions, and dynamic validation logic to prevent duplicate permit issuance
+- Refactored legacy direct-database write paths into secure, rate-limited **RESTful microservices** for **10K+ admin users**, enforcing strict role-based access control
+
+### Software Engineer · PhonePe · June 2022 – Sept 2024 · Bengaluru
+
+- Architected an **event-driven notification platform** for WealthBasket order lifecycle events, leveraging **Apache Kafka** topics and consumer groups for **5M+ users**
+- Engineered a low-latency **portfolio aggregation service** using a **Redis caching layer** and parallel asynchronous API calls to minimize database read overhead during market hours
+- Built a **Risk Profile Recommendation Engine** executing rule-based evaluation pipelines to generate personalized investment allocation strategies
+- Developed **Capital Gain Report APIs** integrated with MF Central, using distributed caching and duplicate request filtering to lower third-party API costs and latency
+- Automated **market data ingestion pipelines** to ingest, validate, and persist high-volume **NSE stock feeds** for downstream analytics microservices
+
+---
+
+## Key achievement
+
+🏆 **Go Getter Award** at GetMyParking (Nov 2025) — for strong ownership, problem-solving, and successfully delivering critical business initiatives
 
 ---
 
@@ -44,19 +49,19 @@ Focused on system design, performance optimization, concurrency, and production 
 
 **Frameworks:** Spring Boot · Hibernate · Flask · Node.js
 
-**Databases:** PostgreSQL · DynamoDB · Redis · Elasticsearch
+**Databases:** PostgreSQL · MongoDB · DynamoDB · Redis · Elasticsearch
 
 **Messaging:** Kafka · AWS SQS
 
-**Cloud:** AWS (Lambda, EC2, S3, API Gateway, CloudWatch…) · Azure
+**Cloud:** AWS · Azure
 
 **Other:** Docker · Microservices · System Design · DSA
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -84,6 +89,7 @@ Focused on system design, performance optimization, concurrency, and production 
 
 ## Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramkrushnapatra1999-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramkrushnapatra1999)
 [![Email](https://img.shields.io/badge/Email-rpatra16499@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rpatra16499@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ramkrushnapatra-181717?style=flat&logo=github)](https://github.com/ramkrushnapatra)
 
