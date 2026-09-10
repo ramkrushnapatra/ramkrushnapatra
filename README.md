@@ -6,7 +6,7 @@
 Java · Spring Boot · Python · PostgreSQL · Kafka · AWS · Microservices
 ```
 
-📧 rpatra16499@gmail.com · 📱 +91 8097335488 · 🇮🇳 India
+📧 rpatra16499@gmail.com · 🇮🇳 India
 
 ---
 
